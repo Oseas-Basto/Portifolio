@@ -21,7 +21,7 @@ main{
     color: #3c23dd;
     font-size: 2.5em;
     position: absolute;
-    left: 200px;
+    margin-left: 100px;
     top: 50px;
 }
 
@@ -29,7 +29,7 @@ main{
     color: #3c23dd;
     font-size: 2em;
     position: absolute;
-    left: 200px;
+    margin-left: 100px;
     top: 110px;
 }
 
@@ -38,7 +38,7 @@ main{
     font-size: 1.5em;
     color: #3c23dd;
     position: absolute;
-    left: 200px;
+    margin-left: 100px;
     top: 240px;
     max-width: 340px;
     text-align: justify;
@@ -50,7 +50,7 @@ main{
     text-decoration: none;
     font-size: 1.2em;
     position: absolute;
-    left: 200px;
+    margin-left: 100px;
     top: 420px;
 }
 
@@ -60,7 +60,7 @@ main{
     text-decoration: none;
     font-size: 1.2em;
     position: absolute;
-    left: 200px;
+    margin-left: 100px;
     top: 490px;
 }
 
@@ -70,7 +70,7 @@ main{
     text-decoration: none;
     font-size: 1.2em;
     position: absolute;
-    left: 200px;
+    margin-left: 100px;
     top: 560px;
 }
 
@@ -83,8 +83,9 @@ main{
     border-radius: 50%;
     height: 400px;
     position: absolute;
-    left: 900px;
+    margin-left: 900px;
     top: 50px;
+    max-width: 800px;
 }
 
 #rodape{
