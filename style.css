@@ -88,11 +88,9 @@ main{
     max-width: 800px;
 }
 
-#rodape{
+footer{
     font-size: 1.2em;
-    font-weight: bold;
+    font-weight: bolder;
     color: #3c23dd;
-    position: absolute;
-    left: 45%;
-    bottom: 20px;
+    text-align: center;
 }
